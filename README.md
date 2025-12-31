@@ -1,5 +1,5 @@
 ================================================================================================
-This was done on the Mac m3 laptop. 
+Assumes Apple Silicone environment. 
 
 Install as a single command (concatenated into into single instructions). This scripts installs the "latest" version of python, required libraries for Huggingface 'evaluate' metrics, mog-llm, and airlift-challenge.
 
